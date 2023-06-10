@@ -1,5 +1,5 @@
 # Información del Alumno
-* Erik Estrada
+* Erik Israel Estrada Gil
 * T02833185
 * Ingeniería en Desarrollo de Software
 * Verano Semestral — 6° Semestre
